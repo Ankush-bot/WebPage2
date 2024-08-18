@@ -1,4 +1,5 @@
 Key Features:
+
 Centralized Booking Management: Seamlessly manage all your reservations from a single dashboard. Easily integrate with major OTAs to ensure real-time availability and prevent double bookings.
 
 Guest Experience Enhancement: Access a CRM system that allows you to personalize guest experiences, track preferences, and ensure exceptional service at every touchpoint.
